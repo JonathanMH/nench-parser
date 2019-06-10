@@ -1,0 +1,15 @@
+{
+  "name": "nench-parser",
+  "version": "1.0.0",
+  "description": "This is an (incomplete) parser for [Nench][nench] log files for Node.js. I needed it for writing a blog post about comparing VPS performance, so I thought maybe somebody else might need this as well :)",
+  "main": "NenchParser.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
